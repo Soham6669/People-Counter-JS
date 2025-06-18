@@ -18,7 +18,7 @@ function decrement(){
 }
 
 function save(){
-    let a = count + " - "
+    let a = count + " / "
 
     saveEL.textContent += a 
 
